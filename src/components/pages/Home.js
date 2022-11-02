@@ -4,7 +4,7 @@ import Cards from '../Cards'
 import { Footer } from '../Footer'
 import HeroSection from '../HeroSection'
 
-export const Home = () => {
+export const Create = () => {
   return (
     <>
       <HeroSection />     
@@ -14,4 +14,4 @@ export const Home = () => {
   )
 }
 
-export default Home
+export default Create

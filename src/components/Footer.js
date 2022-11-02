@@ -2,13 +2,38 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import { Button } from './Button'
 import './Footer.css'
+import { GrReactjs } from 'react-icons/gr'
+import styled, { css } from 'styled-components/macro'
+
+const emblem = css`
+  width: 50px;
+  height: 50px;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 10px;
+  margin-right: 1rem;
+  user-select: none;
+  transition: 0.3s;
+  margin-left: 0.5rem;
+  margin-top: 0.4rem;
+
+  &:hover {
+    background: #fff;
+    color: #242424;
+    transform: scale(1.05);
+  }
+`
+const Emblem = styled(GrReactjs)`
+  ${emblem}
+`
 
 export const Footer = () => {
   return (
     <div className='footer-container'>
     <section className="footer-subscription">
       <p className="footer-subscription-heading">
-        Join the adventure newsletter to recieve our best vacation deals
+        Join the Co Create newsletter to recieve to join us content events.
       </p>
       <p className="footer-subscription-text">
         You can unsubscribe at any time.
@@ -62,10 +87,10 @@ export const Footer = () => {
           <div className="footer-logo">
             <div className="footer-logo">
               <Link to="/" className="social-logo">
-                React <i className="fab fa-typo3"></i>
+                <Emblem />
               </Link>
             </div>
-            <small className="website-rights">React © 2022</small>
+            <small className="website-rights">Co Create © 2022</small>
             <div className="social-icons">
               <Link className="social-icon-link facebook"
                 to='/'
