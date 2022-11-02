@@ -1,9 +1,9 @@
-# React Modern Vision
+# React Responive Clean
 React Application - Front end
 
-The Artwear Catalog is an art / fashion exhibition for one of a kind, hand painted, art to wear pieces. It showcases the co-creative talents of models, photographers, designers, and artists in the creative-professional community in Philadelphia, and has a custom art to wear interface that enables the user to create their own art to wear.
+Based on my background in art and design, I have an inspired desire to master the art of Front End Development. I’m interested in both front and backend, but I’m more curious to how far I can push the limited of Front End Development. I created this responsive React.js application to put into practice different techniques of styling, routing / linking pages, and to learn more about different ways to create dynamic React components.
 
-JavaScript | React Router Dom | Styled Components | CSS3 | Graphic Design | Adobe Creative Cloud | Photoshop CC
+React.js | React Router Dom | Styled Components | CSS3 | UI Design | Photoshop CC 
 
 Link to project: <a target="_blank" href="https://react-responsive-clean.netlify.app/">live demo</a>
 
@@ -16,7 +16,7 @@ Link to project: <a target="_blank" href="https://react-responsive-clean.netlify
 <img width="1440" alt="responsive-clean-1" src="https://user-images.githubusercontent.com/101936420/199354648-de2679b3-409a-461f-953d-41b812171e41.png">
 
 ## Design
-This design concept is inspired by the high fashion catalog aesthetic, so I decided to design a clean and spacious style layout with dynamic typographic, in relation to the catalog style photography to embody a modern art gallery look and feel. All art pieces are made by yours truly or in collaboration with another artist. I was intentional about not using a template for this project. Graphic design work is done by scratch.
+A simple yet sweet, flexible design layout with the capability to provide many options for the user, without clustering up the interface with content. a simple, clean, and breathable design layout.
 
 <p align="left">
   <a href="https://henrylee.studio/" target="_blank">
