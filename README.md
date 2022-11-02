@@ -5,7 +5,7 @@ The Artwear Catalog is an art / fashion exhibition for one of a kind, hand paint
 
 JavaScript | React Router Dom | Styled Components | CSS3 | Graphic Design | Adobe Creative Cloud | Photoshop CC
 
-Link to project: <a target="_blank" href="https://react-modern-vision.netlify.app/">live demo</a>
+Link to project: <a target="_blank" href="https://react-responsive-clean.netlify.app/">live demo</a>
 
 <img width="1440" alt="responsive-clean-7" src="https://user-images.githubusercontent.com/101936420/199354426-08334b44-d2c3-427f-9c8b-5c5329bfe29b.png">
 <img width="1440" alt="responsive-clean-6" src="https://user-images.githubusercontent.com/101936420/199354489-9627fa44-a8ec-4537-9056-6ce3213676ee.png">
